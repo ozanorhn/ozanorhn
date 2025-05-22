@@ -21,88 +21,47 @@ Hi! I'm a **frontend developer** based in Hannover, Germany.
 
 ## 🚀 Tech Stack & Tools
 
+<p align="left"><strong>I work with modern technologies to craft fast, scalable, and beautiful interfaces.</strong></p>
+
+### 🧑‍💻 Languages
 <p align="center">
-  <strong>I work with modern tools to build fast, scalable, and elegant UIs.</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <!-- JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img title="JavaScript" alt="JavaScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  </a>
-
-  <!-- TS -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img title="TypeScript" alt="TypeScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img title="Python" alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
-
-  <!-- Vue -->
-  <a href="https://vuejs.org/" target="_blank">
-    <img title="Vue.js" alt="Vue.js" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img title="React" alt="React" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  </a>
-
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank">
-    <img title="Angular" alt="Angular" width="48" height="48" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img title="Bootstrap" alt="Bootstrap" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  </a>
-
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img title="TailwindCSS" alt="TailwindCSS" width="48" height="48" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img title="HTML5" alt="HTML5" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img title="CSS3" alt="CSS3" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-  </a>
-
-  <!-- Sass -->
-  <a href="https://sass-lang.com/" target="_blank">
-    <img title="SASS" alt="SASS" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img title="Firebase" alt="Firebase" width="48" height="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-  </a>
-
-  <!-- Figma -->
-  <a href="https://figma.com/" target="_blank">
-    <img title="Figma" alt="Figma" width="48" height="48" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img title="Git" alt="Git" width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  &nbsp;
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
 </p>
 
+### 🎨 UI & Styling
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SASS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> </p>
 ---
 
 ## 🌐 Portfolio
 
 🧩 Want to see what I’ve built?  
-Take a look at my portfolio site:
+Check out my portfolio site:
 
 👉 **[ozan-orhan.com](https://ozan-orhan.com/)**
 
@@ -145,5 +104,3 @@ Take a look at my portfolio site:
   <br /><br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=F7FF00&center=true&width=1000&lines=Let’s+build+something+beautiful+and+useful+together.;Frontend+meets+performance+%E2%80%94+that’s+where+I+code.;Designing+for+humans.+Building+for+scalability.;Every+pixel+matters.+Every+line+has+purpose.;Interfaces+that+feel+good+%7C+Code+that+lasts.;Let’s+turn+ideas+into+experiences.+%F0%9F%9A%80" alt="Final Typing Banner" />
 </div>
-
-
