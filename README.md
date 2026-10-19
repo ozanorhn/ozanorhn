@@ -14,7 +14,7 @@
   </p>
 </div>
 
-────────
+---
 
 > whoami
 
@@ -24,7 +24,7 @@ My focus: agent orchestration, MCP integrations, retrieval-augmented generation,
 
 > **Build the workflow. Connect the tools. Keep humans in control.**
 
-⚡ What I engineer
+## ⚡ What I engineer
 
 |Focus                     |What I work on                                                                    |
 |:-------------------------|:---------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ My focus: agent orchestration, MCP integrations, retrieval-augmented generation,
 |**Infrastructure**        |Docker, reverse proxies, self-hosting, access control and operational safeguards  |
 |**Interfaces & Analytics**|Angular / TypeScript applications, dashboards, tracking and technical SEO         |
 
-🧩 Selected engineering work
+## 🧩 Selected engineering work
 
 Detailed architecture, trade-offs and outcomes — published as case studies on my portfolio.
 
@@ -50,23 +50,27 @@ Detailed architecture, trade-offs and outcomes — published as case studies on 
   <a href="https://ozan-orhan.com/projekte/"><strong>Explore all 16 projects and case studies →</strong></a>
 </div>
 
-🛠 My toolkit
+## 🛠 My toolkit
 
-AI & orchestration
+### AI & orchestration
+
 AI Agents · MCP · RAG · Embeddings · n8n · OpenAI / OpenRouter · Structured Outputs
 
-Engineering & infrastructure
+### Engineering & infrastructure
+
 Python · FastAPI · Django · REST APIs · PostgreSQL · Docker · Linux · Caddy · OAuth
 
-Web & product
+### Web & product
+
 TypeScript · JavaScript · Angular · HTML / CSS · Git · GA4 / GTM
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,angular,fastapi,django,docker,postgres,linux,git,github&theme=light&perline=11" alt="Selected development technologies" />
 </p>
 
-🔄 How I think about agent systems
+## 🔄 How I think about agent systems
 
+```mermaid
 flowchart LR
     U["User / Event"] --> A["Agent / n8n"]
     A --> T["MCP Tools / APIs"]
@@ -77,10 +81,11 @@ flowchart LR
     G -->|No| X["Execute / Respond"]
     H --> X
     X --> O["Logs & Feedback"]
+```
 
 A useful AI system isn’t just a model call. It’s a reproducible process with well-defined tools, clear boundaries, validation and a way to recover when things fail.
 
-📂 Public code
+## 📂 Public code
 
 |Repository                                                                      |What you’ll find                                                                                             |
 |:-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
@@ -90,12 +95,12 @@ A useful AI system isn’t just a model call. It’s a reproducible process with
 
 > Some professional systems are documented as **case studies rather than public source code**. This keeps internal data, credentials and proprietary implementation details private.
 
-✍️ Writing & ideas
+## ✍️ Writing & ideas
 
 I write about AI agents, MCP, RAG, automation architecture and lessons from implementation.
 
-• Technical articles on my portfolio
-• Author profile at arcnode
+- [Technical articles on my portfolio](https://ozan-orhan.com/blog/)
+- [Author profile at arcnode](https://arcnode.de/autor/ozan/)
 
 ────────
 
